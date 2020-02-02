@@ -1,0 +1,98 @@
+/* colors and fonts */
+
+
+body{
+	background: rgb(69, 69, 87);
+	color: rgb(255, 77, 77);
+	font-family: 'Source Code Pro', monospace;
+	font-size: 18px;
+
+}
+h1{
+	color: rgb(255, 255, 77);
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+}
+h2{
+	color: rgb(255, 193, 77);
+	font-family: 'PT Serif', serif 
+	
+
+}
+a{
+	color: rgb(56, 176, 93);
+}
+a:hover{
+	color: yellow
+}
+
+
+/*Custom design with class */
+
+.container {
+    width: 700px; 
+    margin: 40px auto;
+}
+
+.card-white {
+	border-radius: 4px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	background-color: rgba(0, 0, 0, 0.46);
+    padding: 40px;
+    margin: 20px 0px;
+    text-align: center;
+
+}
+
+.img-circle{
+	border-radius: 45%;
+}
+
+.btn-green{
+	background-color: rgb(69, 69, 87);
+	color: rgb(56, 176, 93);
+	padding: 10px 20px;
+	border-radius: 4px;
+}
+.btn-green:hover {
+	background-color: black;
+	color: rgb(56, 176, 93);
+}
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 20px;
+}
+.list-inline i {
+	font-size: 50px;
+}
+#introduction p {
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
